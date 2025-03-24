@@ -1,6 +1,6 @@
 # argparse
 
-Inspired by the [argparse tutorial](https://docs.python.org/howto/argparse.html).
+See [argparse](https://docs.python.org/howto/argparse.html).
 
 Without arguments:
 
