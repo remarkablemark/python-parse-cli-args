@@ -1,6 +1,6 @@
 # argparse
 
-See [argparse](https://docs.python.org/howto/argparse.html).
+Parse CLI arguments with [`argparse`](https://docs.python.org/howto/argparse.html).
 
 Without arguments:
 
