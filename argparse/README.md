@@ -14,8 +14,14 @@ With arguments:
 python3 argparse/cli.py Mark
 ```
 
-Get help:
+See help:
 
 ```sh
 python3 argparse/cli.py --help
+```
+
+See version:
+
+```sh
+python3 argparse/cli.py --version
 ```
