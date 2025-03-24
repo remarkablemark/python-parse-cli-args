@@ -1,8 +1,6 @@
 # sys.argv
 
-Parse CLI arguments with [`sys.argv`](https://docs.python.org/library/sys.html#sys.argv).
-
-Without arguments:
+Parse CLI arguments with [`sys.argv`](https://docs.python.org/library/sys.html#sys.argv):
 
 ```sh
 python3 sys.argv/cli.py

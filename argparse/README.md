@@ -1,8 +1,6 @@
 # argparse
 
-Parse CLI arguments with [`argparse`](https://docs.python.org/howto/argparse.html).
-
-Without arguments:
+Parse CLI arguments with [`argparse`](https://docs.python.org/howto/argparse.html):
 
 ```sh
 python3 argparse/cli.py
