@@ -8,10 +8,16 @@ Without arguments:
 python3 argparse/cli.py
 ```
 
-With arguments:
+With required arguments:
 
 ```sh
 python3 argparse/cli.py Mark
+```
+
+With optional arguments:
+
+```sh
+python3 argparse/cli.py Mark --salutation=Welcome --color
 ```
 
 See help:
