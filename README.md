@@ -3,6 +3,7 @@
 🐍 Python parse CLI arguments:
 
 - [argparse](argparse)
+- [sys.argv](sys.argv)
 
 ## License
 
