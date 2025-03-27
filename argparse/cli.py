@@ -11,7 +11,7 @@ parser.add_argument("--version", "-v", action="version", version="%(prog)s 1.2.3
 # parser.add_argument("--help", action="help", help="show this help message and exit")
 
 parser.add_argument("name", help="name to greet")
-parser.add_argument("--salutation", "-s", default="Hello", help="greeting or salutation")
+parser.add_argument("--salutation", "-s", default="Hello", help="greeting or salutation [default: Hello]")
 parser.add_argument("--color", "-c", action="store_true", help="colorize the text")
 
 args = parser.parse_args()
